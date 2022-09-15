@@ -1,0 +1,6 @@
+framework module Pods_blip_chat_blip_chatUITests {
+  umbrella header "Pods-blip-chat-blip-chatUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

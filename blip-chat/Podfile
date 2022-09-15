@@ -1,0 +1,20 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'blip-chat' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for blip-chat
+  pod 'Flutter', :podspec => '/Users/leonardo.gabriel/.local/.pocs/Swift/my_flutter_framework/Debug/Flutter.podspec'
+
+  target 'blip-chatTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'blip-chatUITests' do
+    # Pods for testing
+  end
+
+end

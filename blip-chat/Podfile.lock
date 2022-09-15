@@ -1,0 +1,16 @@
+PODS:
+  - Flutter (2.10.400)
+
+DEPENDENCIES:
+  - Flutter (from `/Users/leonardo.gabriel/.local/.pocs/Swift/my_flutter_framework/Debug/Flutter.podspec`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :podspec: "/Users/leonardo.gabriel/.local/.pocs/Swift/my_flutter_framework/Debug/Flutter.podspec"
+
+SPEC CHECKSUMS:
+  Flutter: 3fdb2597fbe721532b64865be990de93cb62a8e2
+
+PODFILE CHECKSUM: 0084e82c89d93dffcadba11bcc97985193673c55
+
+COCOAPODS: 1.11.2
